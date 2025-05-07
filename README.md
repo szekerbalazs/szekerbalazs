@@ -10,7 +10,7 @@ Projects I worked on in the past include:
 - 🖼️ Contrastive Learning in Image Analysis
 - 🖼️ Image Classification with SWAG
 
-Here you can find a selection of these projects I worked on in the past. :)
+You can find a selection of these projects in this repo here :)
 
 📫 Get in touch me: [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)
 
