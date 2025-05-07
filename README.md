@@ -14,3 +14,7 @@ You can find a selection of these projects in this repo here :)
 
 📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)
 
+## 📫 Get in Touch
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)!
+
