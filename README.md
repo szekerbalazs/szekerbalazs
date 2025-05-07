@@ -2,7 +2,7 @@
 
 ## 📚 Background
 
-I am a Master's student in Statistics at ETH Zürich, with a strong focus on Machine Learning and Artificial Intelligence. My academic training is complemented by hands-on experience with modern ML techniques and applied research projects.
+I am a Master's student in Statistics at ETH Zürich, with a strong focus on Machine Learning and Artificial Intelligence. My studies have covered both theoretical foundations and practical applications of modern machine learning techniques.
 
 ### Selected Courses
 - **Probabilistic Artificial Intelligence** — A. Krause  
