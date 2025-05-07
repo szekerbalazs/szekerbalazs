@@ -328,7 +328,3 @@ submission = pd.DataFrame({"id": range(len(all_preds)), "y": all_preds})
 submission.to_csv("test_predictions.csv", index=False)
 
 print("Predictions saved to test_predictions.csv")
-
-
-# 9000, 0.4 dropout, base, 0.773
-# 9000, 0.4 dropout, no padding, 0.801
