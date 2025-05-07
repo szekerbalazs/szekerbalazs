@@ -1,20 +1,41 @@
-## 👋 Hi, I’m Balu
+# 👋 Hi, I’m Balu
 
-I am a Master's Student in Statistics at ETH with a strong focus on Machine Learning and AI.
+## 📚 Background
 
-Here are a few selected projects I have worked on recently:
-- 🧠 [Brain Age Prediction from MRI Features](https://github.com/szekerbalazs/szekerbalazs/blob/main/BrainAgePrediction/BrainAgePrediction.ipynb) (Ranked 13/150 in Kaggle Competition)
-- 🫀 [Heart Rhythm Classification from ECG Data](https://github.com/szekerbalazs/szekerbalazs/blob/main/ECGAnalysis/ECGAnalysis.py) (Ranked 14/131 in Kaggle Competition)
-- ☀️ Modelling Time Evolution of Solar Reflectivity of Roofs with Time Series Modelling and Gaussian Process Regression for Hyperparameters
-- ❓ Sentiment Analysis with finetuning a BERT Model
-- 🖼️ Contrastive Learning in Image Analysis
-- 🖼️ Image Classification with SWAG
+I am a Master's student in Statistics at ETH Zürich, with a strong focus on Machine Learning and Artificial Intelligence. My academic training is complemented by hands-on experience with modern ML techniques and applied research projects.
 
-You can find a selection of these projects in this repo here :)
+### Selected Courses
+- **Probabilistic Artificial Intelligence** — A. Krause  
+- **Advanced Machine Learning** — J. Buhmann, C. Cotrini Jimenez  
+- **Mathematical Foundations of Reinforcement Learning** — N. He  
+- **Large Language Models** — R. Cotterell, M. Sachan, F. Tramèr
 
-📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)
+## 💡 Selected Projects
+
+Here are a few recent projects I’ve worked on:
+
+- 🧠 [**Brain Age Prediction from MRI Features**](https://github.com/szekerbalazs/szekerbalazs/blob/main/BrainAgePrediction/BrainAgePrediction.ipynb)  
+  Developed a regression model to estimate brain age from MRI-derived features.  
+  📈 *Ranked 13th out of 150 teams in a Kaggle competition.*
+
+- 🫀 [**Heart Rhythm Classification from ECG Data**](https://github.com/szekerbalazs/szekerbalazs/blob/main/ECGAnalysis/ECGAnalysis.py)  
+  Built a CNN based classifier for identifying heart rhythm anomalies from ECG signals.  
+  📈 *Achieved 14th place out of 131 participants in a Kaggle challenge.*
+
+- ☀️ **Modeling the Temporal Evolution of Roof Reflectivity**  
+  Applied time series models and Gaussian Process Regression to forecast changes in rooftop solar reflectivity.
+
+- ❓ **Sentiment Analysis with Fine-Tuned BERT**  
+  Fine-tuned a pre-trained BERT model for sentiment classification tasks on domain-specific text data.
+
+- 🖼️ **Contrastive Learning for Image Analysis**  
+  Explored self-supervised contrastive learning methods for image representation learning.
+
+- 🖼️ **Image Classification with SWAG**  
+  Implemented classification models incorporating the SWAG (Stochastic Weight Averaging-Gaussian) method to improve generalization.
+
+You can find a selection of these projects in this repository.
 
 ## 📫 Get in Touch
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)!
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)—I’m always happy to exchange ideas or discuss potential collaborations.
