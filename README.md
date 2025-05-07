@@ -12,5 +12,5 @@ Projects I worked on in the past include:
 
 Here you can find a selection of these projects I worked on in the past. :)
 
-📫 Get in touch me: [LinkedIn](#www.linkedin.com/in/balázs-szekér-80b647223)
+📫 Get in touch me: [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)
 
