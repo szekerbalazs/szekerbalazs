@@ -5,8 +5,6 @@
 I am a Master's student in Statistics at ETH Zürich, with a strong focus on Machine Learning and Artificial Intelligence. My studies have covered both theoretical foundations and practical applications of modern machine learning techniques.
 
 ### Selected Courses
-- **Foundations of Reinforcement Learning** - N. He
-- **Large Language Models** - R. Cotterell, M. Sachan & F. Tramèr
 - **Probabilistic Artificial Intelligence** — A. Krause  
 - **Advanced Machine Learning** — J. Buhmann, C. Cotrini Jimenez  
 - **Mathematical Foundations of Reinforcement Learning** — N. He  
