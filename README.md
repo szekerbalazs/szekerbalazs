@@ -1,41 +1,46 @@
-# 👋 Hi, I’m Balu
+# Hi, I'm Balu 👋
 
-## 📚 Background
+Master's student in Statistics at ETH Zürich, working on reinforcement learning for LLM agents. Background in physics, statistics and machine learning, with industry experience in data science and LLM engineering.
 
-I am a Master's student in Statistics at ETH Zürich, with a strong focus on Machine Learning and Artificial Intelligence. My studies have covered both theoretical foundations and practical applications of modern machine learning techniques.
+### 🔭 Currently
 
-### Selected Courses
-- **Probabilistic Artificial Intelligence** — A. Krause  
-- **Advanced Machine Learning** — J. Buhmann, C. Cotrini Jimenez  
-- **Mathematical Foundations of Reinforcement Learning** — N. He  
-- **Large Language Models** — R. Cotterell, M. Sachan, F. Tramèr
+- Master's thesis at the [Learning & Adaptive Systems Group](https://las.inf.ethz.ch/), ETH Zürich: RL and self-distillation for multi-turn agentic tool use
+- TA for Probabilistic Artificial Intelligence at ETH
 
-## 💡 Selected Projects
+### 🎓 Education
 
-Here are a few recent projects I’ve worked on:
+- **MSc Statistics**, ETH Zürich.
+- **BSc Physics**, ETH Zürich. Bachelor thesis at PSI, which led to a [co-authored paper](https://doi.org/10.1016/j.jallcom.2024.176954)
 
-- 🧠 [**Brain Age Prediction from MRI Features**](https://github.com/szekerbalazs/szekerbalazs/blob/main/BrainAgePrediction/BrainAgePrediction.ipynb)  
-  Developed a regression model to estimate brain age from MRI-derived features.  
-  📈 *Ranked 13th out of 150 teams in a Kaggle competition.*
+**Relevant coursework**
 
-- 🫀 [**Heart Rhythm Classification from ECG Data**](https://github.com/szekerbalazs/szekerbalazs/blob/main/ECGAnalysis/ECGAnalysis.py)  
-  Built a CNN based classifier for identifying heart rhythm anomalies from ECG signals.  
-  📈 *Achieved 14th place out of 131 participants in a Kaggle challenge.*
+- **Machine learning & AI:** Advanced Machine Learning, Probabilistic Artificial Intelligence, Foundations of Reinforcement Learning, Large Language Models
+- **Data:** Big Data
+- **Statistics:** Fundamentals of Mathematical Statistics, Time Series Analysis, Computational Statistics
 
-- ☀️ **Modeling the Temporal Evolution of Roof Reflectivity**  
-  Applied time series models and Gaussian Process Regression to forecast changes in rooftop solar reflectivity.
+### 📍 Previously
 
-- ❓ **Sentiment Analysis with Fine-Tuned BERT**  
-  Fine-tuned a pre-trained BERT model for sentiment classification tasks on domain-specific text data.
+- **UN Office for Disaster Risk Reduction, Bangkok:** led development of a RAG-based LLM system (ingestion pipeline, vector search with PostgreSQL and Azure AI Search, chatbot prototype)
+- **Sika R&D, Zürich:** forecasting roof-colour evolution from satellite imagery with time-series models and Gaussian process regression
+- **Empa, Dübendorf:** vehicle detection and tracking in drone footage
 
-- 🖼️ **Contrastive Learning for Image Analysis**  
-  Explored self-supervised contrastive learning methods for image representation learning.
+### 🛠️ Projects
 
-- 🖼️ **Image Classification with SWAG**  
-  Implemented classification models incorporating the SWAG (Stochastic Weight Averaging-Gaussian) method to improve generalization.
+- [**Brain age prediction**](https://github.com/szekerbalazs/szekerbalazs/blob/main/BrainAgePrediction/BrainAgePrediction.ipynb): regression on MRI-derived features (13th of 150 teams)
+- [**ECG rhythm classification**](https://github.com/szekerbalazs/szekerbalazs/blob/main/ECGAnalysis/ECGAnalysis.py): CNN for detecting heart-rhythm anomalies (14th of 131)
+- Sentiment analysis with fine-tuned BERT
+- Contrastive learning for image representations
+- Image classification with SWAG
 
-You can find a selection of these projects in this repository.
+### 🧰 Tools & methods
 
-## 📫 Get in Touch
+- **Languages:** Python, R, SQL
+- **ML:** PyTorch, TensorFlow, scikit-learn, verl
+- **Data & LLM systems:** pandas, PostgreSQL, Azure AI Search, OpenAI API
+- **Methods:** reinforcement learning, Bayesian deep learning, Gaussian processes, time-series modelling
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223)—I’m always happy to exchange ideas or discuss potential collaborations.
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/balázs-szekér-80b647223) · szekerb@ethz.ch
+<!-- Add "· [Website](https://szekerbalazs.github.io)" once the page is live -->
