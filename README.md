@@ -39,7 +39,6 @@ I write a summary for every course I take. All of them, from my physics Bachelor
 - **Languages:** Python, R, SQL
 - **ML:** PyTorch, TensorFlow, scikit-learn, verl
 - **Data & LLM systems:** pandas, PostgreSQL, Azure AI Search, OpenAI API
-- **Methods:** reinforcement learning, Bayesian deep learning, Gaussian processes, time-series modelling
 
 ### 📫 Contact
 
