@@ -11,7 +11,7 @@ MSc Statistics student at ETH Zürich, interested in reinforcement learning for 
 
 - **AI Engineering · UNDRR, Bangkok (2025–2026):** project manager of DATUM, a RAG-based LLM system for the UN Office for Disaster Risk Reduction. Blog post: [The Human Aspect of Artificial Intelligence](https://ethambassadors.ethz.ch/2026/08/06/the-human-aspect-of-artificial-intelligence/)
 - **Data Science · Sika R&D, Zürich (2025):** forecasting roof-colour evolution from satellite imagery with spatiotemporal regression
-- **Computer Vision · Empa, Dübendorf (2022):** tracking vehicles in drone footage to predict traffic noise from video footage
+- **Computer Vision · Empa, Dübendorf (2022):** tracking vehicles in drone footage to predict traffic noise from video recordings
 
 ### 🎓 Education
 
